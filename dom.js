@@ -20,4 +20,6 @@ document.getElementById('addFriend').addEventListener('click', function(){
         <p>Veniam, quam?</p>
     `;
     container.appendChild(friendDive);
-})
+});
+
+
